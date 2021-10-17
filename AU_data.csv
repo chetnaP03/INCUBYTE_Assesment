@@ -1,0 +1,7 @@
+,Customer_Id,Customer_Name,Open_date,Last_Consulted_Date,Vaccination_Id,Dr_Name,State,Country,DOB,Is_Active
+0,1,Nilakshi,2021-09-05,2022-09-04,MVD,Dr.Strange,VIC,AU,1990-11-12,A
+1,2,Chetna,2021-09-05,2022-09-04,MVD,Dr.Mile,VIC,AU,1990-11-12,A
+2,3,Mihir,2021-09-05,2022-09-04,MVD,Dr.Linda,VIC,AU,1990-11-12,A
+3,4,Bharati,2021-09-05,2022-09-04,MVD,Dr.Thor,VIC,AU,1990-11-12,A
+4,5,Sarika,2021-09-05,2022-09-04,MVD,Dr.Natasha,VIC,AU,1990-11-12,A
+5,6,Mahesh,2021-09-05,2022-09-04,MVD,Dr.Stark,VIC,AU,1990-11-12,A
